@@ -1,0 +1,167 @@
+{
+    "courses": [
+        {
+            "course_name": "math",
+            "preferred_time_slot": [
+                {
+                    "day": "Monday",
+                    "end_time": "14:00",
+                    "start_time": "11:00"
+                },
+                {
+                    "day": "Sunday",
+                    "end_time": "21:00",
+                    "start_time": "19:00"
+                },
+                {
+                    "day": "Sumday",
+                    "end_time": "22:22",
+                    "start_time": "11:33"
+                }
+            ]
+        }
+    ],
+    "instructors": [
+        {
+            "avaliability": [
+                {
+                    "day": "Monday",
+                    "end_time": "14:00",
+                    "start_time": "11:00"
+                },
+                {
+                    "day": "Sunday",
+                    "end_time": "21:00",
+                    "start_time": "19:00"
+                },
+                {
+                    "day": "Sumday",
+                    "end_time": "22:22",
+                    "start_time": "11:33"
+                }
+            ],
+            "name": "Dr. Smith",
+            "preferred_courses": [
+                {
+                    "course_name": "math",
+                    "preferred_time_slot": [
+                        {
+                            "day": "Monday",
+                            "end_time": "14:00",
+                            "start_time": "11:00"
+                        },
+                        {
+                            "day": "Sunday",
+                            "end_time": "21:00",
+                            "start_time": "19:00"
+                        },
+                        {
+                            "day": "Sumday",
+                            "end_time": "22:22",
+                            "start_time": "11:33"
+                        }
+                    ]
+                },
+                {
+                    "course_name": "math",
+                    "preferred_time_slot": [
+                        {
+                            "day": "Monday",
+                            "end_time": "14:00",
+                            "start_time": "11:00"
+                        },
+                        {
+                            "day": "Sunday",
+                            "end_time": "21:00",
+                            "start_time": "19:00"
+                        },
+                        {
+                            "day": "Sumday",
+                            "end_time": "22:22",
+                            "start_time": "11:33"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "avaliability": [
+                {
+                    "day": "Monday",
+                    "end_time": "14:00",
+                    "start_time": "11:00"
+                },
+                {
+                    "day": "Sunday",
+                    "end_time": "21:00",
+                    "start_time": "19:00"
+                },
+                {
+                    "day": "Sumday",
+                    "end_time": "22:22",
+                    "start_time": "11:33"
+                }
+            ],
+            "name": "Dr. Smith",
+            "preferred_courses": [
+                {
+                    "course_name": "math",
+                    "preferred_time_slot": [
+                        {
+                            "day": "Monday",
+                            "end_time": "14:00",
+                            "start_time": "11:00"
+                        },
+                        {
+                            "day": "Sunday",
+                            "end_time": "21:00",
+                            "start_time": "19:00"
+                        },
+                        {
+                            "day": "Sumday",
+                            "end_time": "22:22",
+                            "start_time": "11:33"
+                        }
+                    ]
+                },
+                {
+                    "course_name": "math",
+                    "preferred_time_slot": [
+                        {
+                            "day": "Monday",
+                            "end_time": "14:00",
+                            "start_time": "11:00"
+                        },
+                        {
+                            "day": "Sunday",
+                            "end_time": "21:00",
+                            "start_time": "19:00"
+                        },
+                        {
+                            "day": "Sumday",
+                            "end_time": "22:22",
+                            "start_time": "11:33"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "time_slots": [
+        {
+            "day": "Monday",
+            "end_time": "14:00",
+            "start_time": "11:00"
+        },
+        {
+            "day": "Sunday",
+            "end_time": "21:00",
+            "start_time": "19:00"
+        },
+        {
+            "day": "Sumday",
+            "end_time": "22:22",
+            "start_time": "11:33"
+        }
+    ]
+}
